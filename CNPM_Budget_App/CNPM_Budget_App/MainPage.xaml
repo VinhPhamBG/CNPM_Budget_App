@@ -4,7 +4,7 @@
              x:Class="CNPM_Budget_App.MainPage">
 
     <StackLayout>
-        
+        <Text 
     </StackLayout>
 
 </ContentPage>
